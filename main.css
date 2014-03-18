@@ -47,6 +47,10 @@ table {
 	border-spacing: 0;
 }
 /* End of CSS reset */
+html,
+body {
+	100%;
+}
 body {
 	background: snow;
 	text-transform: uppercase;
